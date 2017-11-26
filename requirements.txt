@@ -1,0 +1,6 @@
+pymongo
+elasticsearch
+defusedxml
+python-dateutil
+slackclient
+pygeoip
